@@ -136,11 +136,12 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: #454545;
     
 }
 
 footer h2{
     font-size: 20px;
-    /* color: #474747; */
+    color: #454545;
 
 }
